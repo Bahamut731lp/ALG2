@@ -1,0 +1,23 @@
+\selectlanguage *{czech}
+\contentsline {chapter}{\numberline {1}Zadání}{4}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Specifikace implementace}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Formát dat}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Závislost tříd}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Kompetence tříd}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Podbalík \texttt {trello}}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Podbalík \texttt {stores}}{6}{subsection.2.3.2}%
+\contentsline {subsubsection}{Třída \texttt {NastenkaStore}}{6}{subsubsection*.2}%
+\contentsline {subsection}{\numberline {2.3.3}Podbalík \texttt {ui}}{6}{subsection.2.3.3}%
+\contentsline {subsubsection}{Třída \texttt {TextMenu}}{6}{subsubsection*.3}%
+\contentsline {subsubsection}{Třída \texttt {View}}{7}{subsubsection*.4}%
+\contentsline {subsubsection}{Třída \texttt {MainView}}{7}{subsubsection*.5}%
+\contentsline {subsubsection}{Třída \texttt {NastenkaView}}{7}{subsubsection*.6}%
+\contentsline {subsubsection}{Třída \texttt {NastenkaLoader}}{7}{subsubsection*.7}%
+\contentsline {subsubsection}{Třída \texttt {SloupecView}}{7}{subsubsection*.8}%
+\contentsline {subsubsection}{Třída \texttt {UkolView}}{7}{subsubsection*.9}%
+\contentsline {subsection}{\numberline {2.3.4}Podbalík \texttt {lib}}{7}{subsection.2.3.4}%
+\contentsline {subsubsection}{Třída \texttt {FileSystemUtils}}{7}{subsubsection*.10}%
+\contentsline {subsubsection}{Třída \texttt {StringUtils}}{8}{subsubsection*.11}%
+\contentsline {subsubsection}{Třída \texttt {ScannerUtils}}{8}{subsubsection*.12}%
+\contentsline {subsubsection}{Třída \texttt {ObjectUtils}}{8}{subsubsection*.13}%
+\contentsline {subsubsection}{Třída \texttt {JsonUtils}}{8}{subsubsection*.14}%
